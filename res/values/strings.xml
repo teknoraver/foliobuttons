@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Folio Buttons</string>
+	<string name="light">Light buttons</string>
+	<string name="same">Same Value</string>
+	<string name="apply">Apply</string>
+	<string name="by">by teknoraver</string>
+</resources>
